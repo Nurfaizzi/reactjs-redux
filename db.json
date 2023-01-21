@@ -1,0 +1,24 @@
+{
+    "users" :[
+    {
+      "id" : 1,
+      "Date" : "25/02/2023",
+      "Name": "Suis",
+      "TipeBarang": "Meja",
+      "Jumlah": "1"
+   },
+   {
+    "id" : 2,
+   "Date" : "22/02/2023",
+    "Name": "Rasyid",
+    "TipeBarang": "Baskom",
+    "Jumlah": "2"
+ },
+ {
+  "id" :3,
+ "Date" : "23/02/2023te",
+  "Name": "sopi",
+  "TipeBarang": "Kaleng",
+  "Jumlah": "3"
+}
+    ]}
